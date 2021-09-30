@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors     = ["V. Bruk"]
   spec.email       = ["vbruk@hey.com"]
   spec.homepage    = "https://github.com/bondarolik/countries_latam"
-  spec.summary     = "Summary of CountriesLatam."
-  spec.description = "Description of CountriesLatam."
+  spec.summary     = "This gem is built for easy integrating Latam regions in any Rails application."
+  spec.description = "Use this CountriesLatam gem to integration Countries, States and Cities models in your Rails app."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
